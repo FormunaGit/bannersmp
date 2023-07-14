@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: darkviolet;
+  background-position: center;
+  background-size: 200%;
+  font-family: Verdana, sans-serif;
+}
+/* Style for the top bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style for the links in the top bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Style for the active link in the top bar */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+ /* Style for the links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.title {
+  color: rebeccapurple;
+  text-align: center;
+  size: 250%;
+  rotate: 45;
+}
+.clan {
+  border-radius: 69px;
+  border-color: blueviolet;
+}
